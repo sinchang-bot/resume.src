@@ -83,7 +83,7 @@ _这是一份前端工程师的简历。_ 95 年男生，18 年应届本科毕�
 
 [liaoyuanApp]: https://itunes.apple.com/cn/app/%E7%87%8E%E5%8E%9F/id1074472777
 
-[pdfResumeFile]: https://cdog.me
+[pdfResumeFile]: ./Resume.pdf
 
 [liveRoom]: https://live.bilibili.com/3
 
